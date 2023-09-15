@@ -1,0 +1,3 @@
+Imaginemos que uma empresa de frete faz entregas para os estados de MG, SP, RJ, RR e RS. Para que haja um gasto menor de tempo e gasolina, esse programa foi criado, para buscar pelo melhor trajeto entre os objetivos.
+Como protótipo, utilizamos as coordenadas de um plano cartesiano de duas dimensões para os estados em questão.
+Esse programa foi feito para fins didáticos de desenvolvimento de software de automação e logística.
